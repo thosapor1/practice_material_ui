@@ -19,6 +19,7 @@ export default createTheme({
   typography: {
     fontFamily: "Prompt",
     tab: {
+      fontFamily: "Prompt",
       textTransform: "none",
       fontWeight: 700,
       fontSize: "1rem",
